@@ -1,0 +1,32 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+    # ... other options
+          plugin_activity: yes
+          plugin_activity_limit: 5    # Limit to 5 events
+          plugin_activity_days: 0    # Keep only events from last 14 days (can be set to 0 to disable limitations)
+          plugin_activity_filter: all # Show all events (use table above to filter events types)
+          # Your GitHub token
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1 # Display #1 project of lowlighter/metrics repository
+          plugin_projects_limit: 4                                    # Limit to 4 entries
+          plugin_projects_descriptions: yes
+          plugin_lines: yes
+          plugin_introduction: yes
+          plugin_introduction_title: no
+          plugin_languages: yes
+          plugin_languages_colors: "0:green, javascript:#ff0000, html:blue, css:#800080" # Make most used languages orange and JavaScript red
+          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 2%    
+          token: ${{ secrets.METRICS_TOKEN }}
