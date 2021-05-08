@@ -1464,7 +1464,7 @@
                     <ul class="habits">
                         <li>Use spaces for indents</li>
                         <li>Mostly push code around 17:00</li>
-                        <li>Mostly active on thursday</li>
+                        <li>Mostly active on saturday</li>
                     </ul>
                 </div>
             </section>
@@ -1532,8 +1532,8 @@
               11
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               12
             </div>
                     <div class="entry">
@@ -1618,8 +1618,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">8</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">6</span>
+                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1639,17 +1639,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 41.4%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 41.224%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">52%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 31.36%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 31.504000000000005%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">39%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 6.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.631999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">8%</span>
                         </div>
                         <div class="entry">
@@ -1659,7 +1659,7 @@
                         </div>
                         <div class="entry">
                             <span class="name">Smalltalk</span>
-                            <div class="bar" style="width: 0.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
@@ -1783,7 +1783,7 @@ implemented https redirection</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 08 May 2021 12:05:12 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Sat, 08 May 2021 13:14:05 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
