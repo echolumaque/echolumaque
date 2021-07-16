@@ -1619,8 +1619,8 @@
               15
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               16
             </div>
                     <div class="entry">
@@ -1680,8 +1680,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">3</span>
-                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">2</span>
+                <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
@@ -1807,7 +1807,7 @@ added sqlite functionality in listenup page</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 16 Jul 2021 16:10:05  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 16 Jul 2021 17:18:43  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
