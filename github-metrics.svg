@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1434" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1416" class="">
     <defs>
         <style/>
     </defs>
@@ -59,7 +59,7 @@
             <section>
                 <div class="row fill-width" style="margin-top: 8px;">
                     <section>
-                        <div class="introduction">x =&gt; x.MainStack == "Xamarin Forms Developer 📱" | C# / .NET Main 💻 | DICT Junior at Polytechnic University of the Philippines' Institute of Technology 🎓</div>
+                        <div class="introduction">Senior Xamarin Developer | DICT Junior at Polytechnic University of the Philippines' Institute of Technology 🎓</div>
                     </section>
                 </div>
             </section>
@@ -742,7 +742,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2022, 13:16:50  with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 2 Jul 2022, 14:05:40  with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
