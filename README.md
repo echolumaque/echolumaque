@@ -19,13 +19,15 @@ Heya! I'm Echo Lumaque, a Senior Xamarin and Junior SwiftUI developer for an int
 </p>
 
 ```swift
+import Foundation
+
 class EchoLumaque {
     
     var name: String
     var username: String
     var location: String
     var linkedIn: URL
-    var workLocation: Sting
+    var workLocation: String
 
     init() {
         name = "Echo Lumaque"
@@ -36,7 +38,7 @@ class EchoLumaque {
     }
     
     var description: String {
-        return name
+        return "Hello, my name is \(name), also known as \(username). I'm currently based in \(location) and working in \(workLocation). Connect with me on LinkedIn: \(linkedIn.absoluteString)."
     }
 }
 
