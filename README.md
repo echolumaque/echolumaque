@@ -25,13 +25,14 @@ class EchoLumaque {
     var username: String
     var location: String
     var linkedIn: URL
+    var workLocation: Sting
 
     init() {
-        name = "Echo Lumaquei"
+        name = "Echo Lumaque"
         username = "echolumaque"
         location = "Valenzuela City, Philippines"
-        twitter = "@abhigyantrips"
         linkedIn = URL(string: "https://www.linkedin.com/in/echo-lumaque")
+        workLocation = "Dubai, United Arab Emirates"
     }
     
     var description: String {
