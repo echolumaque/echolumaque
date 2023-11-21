@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1484" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1481" class="">
     <defs>
         <style/>
     </defs>
@@ -101,7 +101,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            62 issue comments
+                            63 issue comments
                         </div>
                     </section>
                     <section>
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    74k added, 721 removed
+                                    211k added, 31.4k removed
                                 </div>
                             </section>
                             <section>
@@ -617,6 +617,26 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by echolumaque in <span class="repo">thudugala/Plugin.LocalNotification</span></div>
+                                    <div class="comment">
+                                        <i>@echolumaque you can do a PR with your change?</i>
+                                        I'm not that well versed with the your library's code and it would definitely took me a long time to understand it. Perhaps a blank project would work?
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#458 Implementation of full screen intent</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by echolumaque in <span class="repo">thudugala/Plugin.LocalNotification</span></div>
                                     <div class="comment">@thudugala, I managed to make this work by using native notifications. However, I would like to rely fully on your library as there's some functionality I needed. How can I send an example to further assist you?
 Thanks!</div>
                                 </div>
@@ -679,38 +699,12 @@ Thanks!</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#8331 `TargetFramework=net8.0-android33` gives poor error message</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by jonathanpeppers in <span class="repo">xamarin/xamarin-android</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            @plppp2001 I would change
-                                            <code>net8.0-android34.0</code>
-                                            to just
-                                            <code>net8.0-android</code>
-                                            so you don't have to fight this next year.
-                                        </i>
-                                        Worked for me too, thanks!
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2023, 18:09:34  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 19:05:23  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
