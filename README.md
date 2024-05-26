@@ -2,8 +2,8 @@
   <b>👋🏻 Echo Lumaque</b>
 </h1>
 
-Hey!! I'm Echo Lumaque, a Senior Xamarin and Junior SwiftUI developer for an <a href="https://mobitech.dev/">international company</a> based in Dubai, United Arab Emirates. I've graduated as Cum Laude on my Bachelor of Science in Information Technology Degree at 
-<a href="https://en.wikipedia.org/wiki/Polytechnic_University_of_the_Philippines">Polyetechnic University of the Philippines</a>.
+Hey!! I'm Echo Lumaque, a Senior Xamarin and Junior SwiftUI developer for an <a href="https://mobitech.dev/">international company</a> based in Dubai, United Arab Emirates.<br><br>I hold two degrees from the <a href="https://en.wikipedia.org/wiki/Polytechnic_University_of_the_Philippines">Polytechnic University of the Philippines</a>. I graduated **Magna Cum Laude** with a **Diploma in Information Communication Technology** from the <a href="https://www.pup.edu.ph/itech/">PUP Institute of Technology</a>. My second degree is a **Bachelor of Science in Information Technology** from the <a href="https://www.pup.edu.ph/ccis/">College of Computer and Information Sciences</a>, where I graduated **Cum Laude**.
+
 
 <br>
 
